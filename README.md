@@ -2,7 +2,7 @@
 
 # Substitutiva Global Solution - ReciTech
 
-## ![Logo](/img/logo.png)
+## ![Logo](./img/logo.png)
 
 Projeto criado para entrega de trabalho da FIAP, Substitutiva Global Solution ano 2, semestre 2. 
 ReciTech é um aplicativo desenvolvido para facilitar a identificação e localização de pontos de coleta seletiva e ecopontos na cidade de São Paulo. 
